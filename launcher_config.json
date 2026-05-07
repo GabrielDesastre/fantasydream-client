@@ -1,0 +1,25 @@
+{
+    "server_name": "Fantasy Dream",
+    "current_version": "1.0.0",
+    "description": "Versão estável - Novos monstros e quests!",
+    
+    "github_username": "SEU_USUARIO_GITHUB",
+    "github_repository": "fantasydream-client",
+    "client_zip_filename": "fantasydream-client.zip",
+    "release_tag": "v1.0.0",
+    
+    "auto_install_updates": false,
+    "enable_auto_update": true,
+    "auto_install_launcher_updates": false,
+    
+    "protected_folders": [
+        "minimap",
+        "conf",
+        "characterdata",
+        "screenshots"
+    ],
+    
+    "check_for_updates_on_startup": true,
+    "show_changelog": true,
+    "backup_before_update": true
+}
