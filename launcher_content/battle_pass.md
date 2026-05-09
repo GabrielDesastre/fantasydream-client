@@ -2,12 +2,12 @@
 
 Recompensas épicas te aguardam em cada temporada!
 
-## Temporada Atual: Inverno Eterno
+## Temporada Atual: Tibia Retro!
 
 **Período**: 01/01/2025 - 28/02/2025 (58 dias restantes)
 
 ### Tema da Temporada
-Explore as terras congeladas e desbloqueie recompensas exclusivas de inverno!
+Explore as terras retros e desbloqueie recompensas exclusivas da época do seu pai!
 
 ## Como Funciona
 
