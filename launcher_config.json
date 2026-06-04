@@ -1,11 +1,11 @@
 {
   "server_name": "Fantasy Dream",
-  "current_version": "1.0.19",
+  "current_version": "1.0.20",
   "description": "Versão inicial do cliente",
   "github_username": "GabrielDesastre",
   "github_repository": "fantasydream-client",
   "client_zip_filename": "FantasyDreamCliente002.zip",
-  "release_tag": "1.0.19",
+  "release_tag": "1.0.20",
   "auto_install_updates": false,
   "enable_auto_update": true,
   "protected_folders": [
