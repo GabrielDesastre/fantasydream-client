@@ -10,7 +10,6 @@
   "enable_auto_update": true,
   "protected_folders": [
     "minimap",
-    "conf",
     "characterdata"
   ],
   "always_update_files": [
