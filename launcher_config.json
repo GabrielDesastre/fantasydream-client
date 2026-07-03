@@ -1,11 +1,11 @@
 {
   "server_name": "Fantasy Dream",
-  "current_version": "1.0.23",
+  "current_version": "1.0.24",
   "description": "Versão inicial do cliente",
   "github_username": "GabrielDesastre",
   "github_repository": "fantasydream-client",
   "client_zip_filename": "FantasyDreamCliente002.zip",
-  "release_tag": "1.0.23",
+  "release_tag": "1.0.24",
   "auto_install_updates": true,
   "enable_auto_update": true,
   "protected_folders": [
@@ -20,8 +20,8 @@
   "backup_before_update": true,
   
   "social_links": {
-    "instagram": "https://www.instagram.com/fantasydreamott",
-    "discord": "https://discord.gg/fantasydreamot",
-    "whatsapp": "https://wa.me/+554284069623"
+    "instagram": "https://www.instagram.com/fantasydreamot",
+    "discord": "https://discord.gg/uF2uSN7syd",
+    "whatsapp": "https://chat.whatsapp.com/C3mUlzIZp6944tfmGBtvKf"
   }
 }
