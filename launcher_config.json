@@ -10,7 +10,8 @@
   "enable_auto_update": true,
   "protected_folders": [
     "minimap",
-    "characterdata"
+    "characterdata",
+    "conf"
   ],
   "always_update_files": [
     "conf/config.ini"
