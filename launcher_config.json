@@ -11,7 +11,7 @@
   "imgsshow": "autoloot,bestiary,charm,masterforge",
   "textshow": "patchnews,battlepass",
   "server_status_url": "https://fantasydream.online/api/online",
-  "background_image": "bkg.png",
+  "background_image": "background.png",
   "protected_folders": [
     "minimap",
     "characterdata"
