@@ -1,11 +1,11 @@
 {
   "server_name": "Fantasy Dream",
-  "current_version": "1.0.38",
-  "description": "Versão inicial do cliente",
+  "current_version": "1.0.39",
+  "description": "Atualização do cliente Fantasy Dream",
   "github_username": "GabrielDesastre",
   "github_repository": "fantasydream-client",
-  "client_zip_filename": "FantasyDreamCliente002.zip",
-  "release_tag": "1.0.38",
+  "client_zip_filename": "FantasyDreamClient.zip",
+  "release_tag": "1.0.39",
   "auto_install_updates": true,
   "enable_auto_update": true,
   "imgsshow": "autoloot,bestiary,charm,masterforge",
@@ -21,7 +21,6 @@
   ],
   "check_for_updates_on_startup": true,
   "backup_before_update": true,
-  
   "social_links": {
     "instagram": "https://www.instagram.com/fantasydreamot",
     "discord": "https://discord.com/invite/uF2uSN7syd",
