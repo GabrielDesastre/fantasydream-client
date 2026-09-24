@@ -1,0 +1,27 @@
+{
+  "server_name": "Fantasy Dream",
+  "client_name": "FantasyClient",
+  "current_version": "1.0.0",
+  "description": "Atualização do cliente FantasyClient",
+  "github_username": "GabrielDesastre",
+  "github_repository": "fantasydream-client",
+  "client_zip_filename": "FantasyClient-ftc-1.0.0.zip",
+  "release_tag": "ftc-1.0.0",
+  "client_executable": "FantasyClient.exe",
+  "update_mode": "full",
+  "auto_install_updates": true,
+  "enable_auto_update": true,
+  "imgsshow": "autoloot,bestiary,charm,masterforge",
+  "textshow": "patchnews,battlepass",
+  "server_status_url": "https://fantasydream.online/api/online",
+  "background_image": "background.png",
+  "protected_folders": [],
+  "always_update_files": [],
+  "check_for_updates_on_startup": true,
+  "backup_before_update": true,
+  "social_links": {
+    "instagram": "https://www.instagram.com/fantasydreamot",
+    "discord": "https://discord.com/invite/uF2uSN7syd",
+    "whatsapp": "https://chat.whatsapp.com/C3mUlzIZp6944tfmGBtvKf"
+  }
+}
