@@ -1,12 +1,13 @@
 # 📰 FantasyClient - Últimas Atualizações
 
-## Versão 1.0.3 - 01/10/2026
+## Versão 1.0.4 - 01/10/2026
 
 ### ✨ Novidades
 - **Assistant - Shooter**: novo preview da área da spell/runa, desenhado tile por tile (piso, seu personagem e o alvo, virados para o sul)
 - **Janelas de diálogo** (Spell Mastery Upgrader, Forge): visual do Tibia original e altura ajustável arrastando a borda de baixo
 
 ### 🔧 Correções
+- **Atualização**: o pacote agora leva o executável junto. Na versão 1.0.3 o launcher apagava o FantasyClient.exe ao atualizar
 - **Assistant**: ao trocar de regra, o campo da spell/item agora mostra a da regra selecionada, e o **Apply** não troca mais a spell/item sozinho (Healing, Shooter, Timers e Equipment)
 - **Assistant**: área corrigida em várias spells (Fire Wave, Scorch, Energy Wave, Energy Beam, Hell's Core, Rage of the Skies, Divine Caldera, Front Sweep, Ice Wave, Terra Wave e outras)
 - Janelas de diálogo com imagem: símbolos "/>" soltos removidos
