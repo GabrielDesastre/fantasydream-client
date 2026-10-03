@@ -8,7 +8,7 @@
   "release_tag": "1.0.38",
   "auto_install_updates": true,
   "enable_auto_update": true,
-  "imgsshow": "autoloot,bestiary,charm,masterforge",
+  "imgsshow": "S2020,W2020,860",
   "textshow": "patchnews,battlepass",
   "server_status_url": "https://fantasydream.online/api/online",
   "background_image": "background.png",
