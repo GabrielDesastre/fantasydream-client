@@ -9,7 +9,7 @@
   "auto_install_updates": true,
   "enable_auto_update": true,
   "imgsshow": "S2020,W2020,860",
-  "textshow": "patchnews,battlepass",
+  "textshow": "patchnews,spellprof",
   "server_status_url": "https://fantasydream.online/api/online",
   "background_image": "background.png",
   "protected_folders": [
