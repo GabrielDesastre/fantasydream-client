@@ -1,5 +1,20 @@
 # 📰 FantasyClient - Últimas Atualizações
 
+## Versão 1.0.5 - 04/10/2026
+
+### ✨ Novidades
+- **Minimapa - Ping**: clique direito no minimapa ou no mapa e escolha **Ping...** para marcar um local para a party ou a guild (Perigo, A caminho, Ajuda, Aqui)
+- **Minimapa**: membros da party e da guild aparecem no minimapa com a cor da vocação
+- **Títulos**: God, GM e Tutor aparecem com título colorido sobre o nome, e os NPCs mostram o que fazem (Merchant, Banker, Boat Captain...)
+- **Assistant - Pull ranged**: nova página que usa Chivalrous Challenge, Divine Dazzle ou Balanced Brawl para puxar monstros de longa distância
+- **Assistant - Smart follow**: novo atalho que segue o alvo por escadas, buracos e fire fields, e vai até onde ele foi visto por último
+
+### 🔧 Correções
+- **Skills**: ao acabar o boost de XP da loja, a taxa voltava a mostrar o valor com boost (225% em vez de 175%)
+- Janelas de diálogo do servidor (ex.: Maestria): tags `<b>` soltas removidas
+- Painéis laterais travados não ficam mais com borda vermelha
+- Menos queda de FPS em lutas com muitos monstros
+
 ## Versão 1.0.4 - 01/10/2026
 
 ### ✨ Novidades
