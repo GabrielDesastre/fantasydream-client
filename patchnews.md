@@ -1,5 +1,22 @@
 # 📰 FantasyClient - Últimas Atualizações
 
+## Versão 1.0.7 - 06/10/2026
+
+### ✨ Novidades
+- **Assistant - Loot seller**: nova opção em Support > General que usa o **Loot Pouch Seller** automaticamente (a cada ~30 segundos) enquanto você o carrega, vendendo a sua Loot Pouch sem precisar clicar
+
+### 🔧 Correções
+- **Store Inbox**: o pontinho branco agora aparece só nos deco kits, e não mais em todos os itens
+- **Chat**: Enter com o chat desligado liga o chat e já deixa o campo de texto pronto para digitar, sem precisar clicar nele
+- Muito mais FPS em hunts pesadas (ex.: Inferniarch): andares de baixo já escondidos pelo chão não são mais desenhados
+- Menos travadas ao lootear: abrir e atualizar backpacks e a loot pouch não congela mais o jogo
+
+## Versão 1.0.6 - 05/10/2026
+
+### 🔧 Correções
+- Menos queda de FPS em áreas com muita coisa na tela, como hunts com muitos monstros e itens
+- Menos queda de FPS ao vender muitos itens no NPC (ex.: loot da loot pouch)
+
 ## Versão 1.0.5 - 04/10/2026
 
 ### ✨ Novidades
