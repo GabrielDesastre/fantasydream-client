@@ -1,5 +1,84 @@
 # 📰 FantasyClient - Últimas Atualizações
 
+## Versão 1.0.15 - 26/10/2026
+
+### ✨ Novidades
+- **Assistant**: janela maior (mais larga e mais alta). As listas de Timers, Shooter, Amulets, Rings, Healing e Group usam toda a largura, e os editores ganharam caixas de nome maiores e campos alinhados
+
+### 🔧 Correções
+- **Cyclopedia e Market**: 54 itens que não apareciam agora aparecem, incluindo todas as armas de Monk (nova categoria **Fist Weapons**) e itens sem categoria (Unsorted / Others)
+- **Cyclopedia**: Offence/Defence sem erro, percentual de level correto, inspeção de item equipado e troca de título funcionando, mensagens de erro da House corretas, Magical Archive sem tudo bloqueado
+- Atalho **Show/hide bestiary tracker** abre o tracker de verdade
+
+## Versão 1.0.14 - 25/10/2026
+
+### ✨ Novidades
+- **Assistant - Scripts**: botão **Edit** abre o script selecionado no editor integrado e recarrega se estiver rodando
+- **Monk**: o Harmony (0 a 5) aparece em cinco marcadores abaixo da barra de mana
+- **Opções**: "Mark target visually" e "Effects Limits" agora funcionam
+- Textos de HUD dos scripts em negrito com contorno preto, bem mais fáceis de ler
+
+### 🔧 Correções
+- **Bless**: o brilho do inventário e o botão de bless só aparecem com 5+ blessings confirmadas pelo servidor
+- **Opções > HUD**: desligar HUD, nome, vida e mana agora esconde de verdade; ícones de NPC e marcas de outras criaturas também
+- **Game Window**: "Show Messages" e "Show Textual Effects" escondem textos e números de dano/cura
+
+## Versão 1.0.13 - 23/10/2026
+
+### ✨ Novidades
+- **Assistant - Scripts (beta)**: rode scripts Lua feitos para o ZeroBot (inclusive GozzimHUD) e crie scripts pelo botão **New script**
+- **Cave Bot**: `wait()` nos waypoints Action e novos waypoints Ladder, Teleport, Machete e "Go to label"
+
+### 🔧 Correções
+- Assistant mais leve: cura, shooter, ataque, timers e cave bot dividem um único ciclo
+- Cave Bot: o waypoint Stand espera o ponto estar alcançável; walk delay e lure passam a valer ao dar play
+- A aba Scripts voltou a carregar os scripts
+
+## Versão 1.0.12 - 22/10/2026
+
+### ✨ Novidades
+- **Opções > Misc**: nova opção **Interface Font** para escolher a fonte da interface
+- **Minimapa**: a rota do cave bot ficou azul claro, com linha mais grossa
+
+### 🔧 Correções
+- Report de bugs envia tipo, texto e posição corretos
+- Modal windows do servidor: tamanho, ícones, imagens e botões longos corrigidos
+- Assistant: "Increase dust capacity" e "Convert dust to sliver" voltaram a funcionar
+- Podium: janela "Customise Podium" corrigida
+
+## Versão 1.0.11 - 20/10/2026
+
+### ✨ Novidades
+- **Assistant**: clique direito numa regra abre Duplicar, Mover para o topo/fim, Ativar/Desativar e Excluir; Shift + seta leva a regra ao topo ou ao fim
+- **Presets**: exportar/importar por arquivo e "Resetar para o inicial"
+- **Cave Bot**: a rota aparece no minimapa, com o waypoint atual destacado
+- Modal windows do servidor mostram cores, quebras de linha e imagens
+
+### 🔧 Correções
+- O botão de subir regra voltou a aparecer no Shooter e nos Timers, e a lista não volta mais ao início ao editar
+- O Shooter respeita a prioridade: a regra de cima é usada primeiro
+- **Minimapa**: a área explorada não é mais perdida ao fechar o cliente
+- Podium e Livestream (cast) corrigidos
+- Menos lag com vários clientes abertos
+
+## Versão 1.0.9 e 1.0.10 - 19/10/2026
+
+### 🔧 Correções
+- Assets do jogo atualizados: novos sprites e aparências (itens, criaturas e outfits)
+
+## Versão 1.0.8 - 16/10/2026
+
+### ✨ Novidades
+- **Opções > Misc**: botões **Export Session Log** e **Open Config Folder**, para enviar o log ao suporte
+- **Smart follow**: novas opções **Follow distance** e **Style** (Normal, Behind, Front, Left, Right, Wave); acompanha quem usa escada, corda e buraco e abre portas do caminho
+- **Assistant - Support**: a lista agora tem barra de rolagem
+
+### 🔧 Correções
+- Corrigido o bug em que monstros apareciam clonados e sem nome depois de certas magias em área (como a Divine Grenade)
+- Utito Tempo San (Sharpshooter) aparecia sem imagem na barra de ação do Paladin
+- O Smart follow contorna monstros, summons e paredes
+- Menos lag com o auto equip de ring/necklace e com o auto exercise
+
 ## Versão 1.0.7 - 06/10/2026
 
 ### ✨ Novidades
