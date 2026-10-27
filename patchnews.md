@@ -1,5 +1,16 @@
 # 📰 FantasyClient - Últimas Atualizações
 
+## Versão 1.0.16 - 26/10/2026
+
+### ✨ Novidades
+- **Análise de hardware**: o cliente detecta placa de vídeo, memória de vídeo e RAM ao abrir, e o **Performance Mode** já vem no nível certo para o seu PC
+- **Tela de login**: aviso com o motivo e botão **Apply recommended** quando o seu PC é mais fraco que o modo escolhido
+- **Vulkan**: placas NVIDIA/AMD recentes (4 GB+ de vídeo) recebem a sugestão de trocar do DirectX 11 para o Vulkan, com reinício do cliente
+- **Graphics Engine**: cada motor gráfico agora tem um tooltip explicando para que ele é melhor
+
+### 🔧 Correções
+- **Placas antigas / pouca memória de vídeo** (ex.: GTX 750 Ti): o jogo fechava com "Unable to create hardware buffer". O cache de textura do mapa agora se adapta à placa, e se o driver reiniciar o cliente abre em modo seguro na próxima vez
+
 ## Versão 1.0.15 - 26/10/2026
 
 ### ✨ Novidades
