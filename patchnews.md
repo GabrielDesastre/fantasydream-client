@@ -1,5 +1,18 @@
 # 📰 FantasyClient - Últimas Atualizações
 
+## Versão 1.0.17 - 05/11/2026
+
+### ✨ Novidades
+- **Assistant > Shooter**: novo modo **Combo**, que faz todas as regras da lista terem a sua vez
+- **Assistant > Shooter**: distância **mínima e máxima** (tiles) para contar os monstros e a área
+- **Store**: nova Home no layout do cliente oficial, com banner em destaque e lista **Recently Added**
+
+### ⚙️ Melhorias
+- **Assistant**: potions e runas respeitam o mesmo tempo de espera do servidor (a runa do Shooter não apaga mais a potion de cura na fila)
+- **Assistant (Shooter)**: não ataca em Protection Zone e espera o servidor confirmar o cooldown da magia antes de repetir
+- **Assistant (Cura)**: até uma magia e um item por tipo (vida/mana) a cada ciclo
+- **Assets** do jogo e tabela de proficiências atualizados
+
 ## Versão 1.0.16 - 26/10/2026
 
 ### ✨ Novidades
