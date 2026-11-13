@@ -1,5 +1,10 @@
 # 📰 FantasyClient - Últimas Atualizações
 
+## Versão 1.0.18 - 12/11/2026
+
+### 🔧 Correções
+- **Monk**: corrigido o travamento ao entrar no jogo com personagens Monk que têm uma Virtue ativa (Harmony, Justice ou Sustain)
+
 ## Versão 1.0.17 - 05/11/2026
 
 ### ✨ Novidades
