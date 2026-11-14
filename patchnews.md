@@ -1,5 +1,26 @@
 # 📰 FantasyClient - Últimas Atualizações
 
+## Versão 1.0.19 - 13/11/2026
+
+### ✨ Novidades
+- **Minimapa realista**: novo botão **R** no minimapa do painel direito alterna entre o mapa clássico e o mapa realista (vista de satélite), nos andares 0 a 15; a sua escolha fica salva
+- **Mapa realista em HD** (opcional): em **Opções > Gráficos > Realistic Map HD** você baixa o mapa em alta definição (cerca de 630 MB, em partes; dá para cancelar e continuar depois) e pode remover quando quiser
+- **Cyclopedia > Map**: a opção **Surface View** mostra o mapa com o terreno de verdade
+
+### ⚙️ Melhorias
+- **Minimapas**: nos andares de cima (0 a 6) aparece o que existe nos andares de baixo onde não há chão; o azul do mar só aparece no andar 7
+- **Login e site**: conexão segura de verdade, o cliente confere o certificado do servidor antes de enviar qualquer dado
+- **Opções** do cliente são salvas na hora (antes só ao fechar o jogo normalmente)
+- **Proficiência**: menos travadas ao matar criaturas
+
+### 🔧 Correções
+- **Chat**: depois de relogar, ligar o chat volta a colocar o cursor na caixa de texto; WASD volta a andar depois de desligar o chat
+- **Ctrl + setas**: virar sem andar ficou confiável
+- **Janelas**: fechar uma janela não rouba mais o foco de outra que acabou de abrir
+- **Menu do clique direito**: "Trade with" e "Show in Market" voltam a aparecer em itens fixos
+- **Market**: nomes das categorias Premium Scroll e Soul Core
+- **Interface**: layouts com âncoras em ciclo não travam mais o cliente
+
 ## Versão 1.0.18 - 12/11/2026
 
 ### 🔧 Correções
